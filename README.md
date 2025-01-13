@@ -16,13 +16,13 @@ Auth0 provide 30+ SDKs & Quickstarts to help you get set up quickly and efficien
 ## Challenge 1
 ### Create an Auth0 Account
 #### Objectives: 
-* Navigate to [auth0.com](https://mlh.link/ghwbeginners25-auth0-signup) and create your own account! 
+* Navigate to [auth0.com](https://mlh.link/ghwbeginner25-auth0-signup) and create your own account! 
 * Share a screenshot of your deployed application on our [submission form](https://mlh.link/ghwform)!
 
 ## Challenge 2 
 ### Star your favorite Auth0 Open Source Project
 #### Objectives: 
-* Check out [Auth0 Open Source Projects](https://mlh.link/ghwbeginners25-auth0-opensource) and star your favorite! 
+* Check out [Auth0 Open Source Projects](https://mlh.link/ghwbeginner25-auth0-opensource) and star your favorite! 
 * Share a screenshot to in our [submission form](https://mlh.link/ghwform)!
 
 ## Challenge 3 
@@ -32,7 +32,7 @@ Auth0 provide 30+ SDKs & Quickstarts to help you get set up quickly and efficien
 * Share your code on our [Devpost Page](https://mlh.link/ghwdevpost)! 
 
 #### Documentation: 
-* [Auth0 Quick Start guide documentation](https://mlh.link/ghwbeginners25-auth0-getstarted)
+* [Auth0 Quick Start guide documentation](https://mlh.link/ghwbeginner25-auth0-getstarted)
 
 ## Challenge 4 
 ### Customize your login box
@@ -41,19 +41,19 @@ Auth0 provide 30+ SDKs & Quickstarts to help you get set up quickly and efficien
 * Share your code on our [Devpost Page](https://mlh.link/ghwdevpost)! 
 
 #### Documentation:
-* [Check out Auth0's step by step walk through](https://mlh.link/ghwbeginners25-auth0-universal)
+* [Check out Auth0's step by step walk through](https://mlh.link/ghwbeginner25-auth0-universal)
 
 ## Challenge 5
 ### Tweet or post on Linkedin with a screenshot of your customized Login box
 #### Objectives: 
 * Take a screenshot of your customized Login and tweet or post it on LinkedIn
-* [Tag @auth0 and use the hashtag: #Auth0MLH-GHW](https://mlh.link/ghwcloud24-auth0-twitter)
+* [Tag @auth0 and use the hashtag: #Auth0MLH-GHW](https://mlh.link/ghwbeginner25-auth0-twitter)
 * Share the link to your post in our [submission form](https://mlh.link/ghwform)!
 
 # Resources
-* [Auth0 Account Signup](https://mlh.link/ghwbeginners25-auth0-signup)
-* [Level up Your Project with Auth0 in Minutes](https://mlh.link/ghwbeginners25-auth0-getstarted)
-* [Google Social Connection to Login](https://mlh.link/ghwbeginners25-auth0-googleconnect)
-* [Customize Universal Login Page Themes](https://mlh.link/ghwbeginners25-auth0-universal)
-* [Auth0 Twitter Page](https://mlh.link/ghwbeginners25-auth0-twitter)
+* [Auth0 Account Signup](https://mlh.link/ghwbeginner25-auth0-signup)
+* [Level up Your Project with Auth0 in Minutes](https://mlh.link/ghwbeginner25-auth0-getstarted)
+* [Google Social Connection to Login](https://mlh.link/ghwbeginner25-auth0-googleconnect)
+* [Customize Universal Login Page Themes](https://mlh.link/ghwbeginner25-auth0-universal)
+* [Auth0 Twitter Page](https://mlh.link/ghwbeginner25-auth0-twitter)
 * [Auth0 Open Source Projects](https://mlh.link/ghwos-auth0-opensource)
